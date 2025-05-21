@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        {/* mustakim l */}
+        {/* King SHAHID */}
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
